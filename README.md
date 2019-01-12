@@ -1,2 +1,0 @@
-# MY GAMEMODE
-Test  TEST
